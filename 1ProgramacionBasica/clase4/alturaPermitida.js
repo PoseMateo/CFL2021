@@ -1,4 +1,4 @@
-//CORREGIR AGREGAR VARIABLE de 1.30
+//CORREGIR AGREGAR VARIABLE de 1.30.
 let readlineSync=require('readline-sync');
 console.log ('TEST DE APTITUD DE SEGURIDAD');
 let alturaUsuario = readlineSync.questionFloat('Ingrese su altura: ')
