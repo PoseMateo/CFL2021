@@ -1,4 +1,4 @@
-//ejercicio de la clase 4 
+//ejercicio de la clase 4. 
 let readlineSync = require("readline-sync");
 console.log("Verificaremos si un numero es PAR o IMPAR");
 let numeroIngresado = readlineSync.questionFloat("Ingrese un numero: ");
